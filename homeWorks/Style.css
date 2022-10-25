@@ -1,0 +1,14 @@
+.nav span:hover  {
+    cursor: pointer;
+    background-color: aqua;
+}
+.nav span:active{
+    color: aquamarine;
+}
+.cn{
+    color: red;
+}
+.blog-post hr{
+ background-color: red;
+ font-size: 3px;
+}
